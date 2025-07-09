@@ -3,7 +3,7 @@
 ComputorV1 is a small C++ program that:
 
 - **Reduces** a polynomial equation (reorganizes and simplifies terms).
-- **Determines** the polynomial degree (from 0 to 3).
+- **Determines** the polynomial degree (from 0 to 2).
 - **Solves** for \(X\) based on the determined degree:
   - **Degree 0**: checks consistency (no variable).
   - **Degree 1**: unique solution.
