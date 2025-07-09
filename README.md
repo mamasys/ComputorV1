@@ -8,8 +8,6 @@ ComputorV1 is a small C++ program that:
   - **Degree 0**: checks consistency (no variable).
   - **Degree 1**: unique solution.
   - **Degree 2**: discriminant, two real solutions or one double, or complex.
-  - **Degree 3**: Cardano’s method (real and/or complex solutions).
-
 ---
 
 ## 📦 Prerequisites
